@@ -193,8 +193,8 @@ Full 18×18 matrix: [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Type#Ty
 | [Aaron Zheng (Cybertron) — YouTube](https://www.youtube.com/@CybertronProductions) | VGC strategy, team explanations, format breakdowns |
 | [PokeStats.cc — Synergy Finder](https://pokestats.cc/) | Automated synergy scoring and coverage gap identification for VGC teams |
 | [TeamTypecalc](https://pokemonshowdown.com/damagecalc/) | Quick team type weakness/resistance overview |
+| [Monteams](https://monteams.com/) | Free browser-based Pokémon team builder for multi-generation six-Pokémon planning, type coverage analysis, and repeated weakness detection |
 
-| [Monteams](https://monteams.com/) | Free browser-based Pokémon team builder for multi-generation six-Pokémon planning, type coverage analysis, and repeated weakness detection | Web |
 ---
 
 ## Open Source Tools & Libraries
