@@ -189,6 +189,7 @@ Full 18×18 matrix: [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Type#Ty
 |----------|-------------|
 | [Pokepaste](https://pokepast.es/) | Standard format for sharing team sets; widely accepted in tournaments |
 | [Showdown Teambuilder](https://play.pokemonshowdown.com/teambuilder) | Web-based team builder with legality check |
+| [ChampiDex](https://champidex.com/builder) | Competitive Pokémon team builder with Showdown import/export, legality checking, team analysis, stress testing, and minimal-change repair previews |
 | [Wolfe Glick's YouTube Channel](https://www.youtube.com/@WolfeVGC) | In-depth team building walkthroughs from a World Champion |
 | [Aaron Zheng (Cybertron) — YouTube](https://www.youtube.com/@CybertronProductions) | VGC strategy, team explanations, format breakdowns |
 | [PokeStats.cc — Synergy Finder](https://pokestats.cc/) | Automated synergy scoring and coverage gap identification for VGC teams |
